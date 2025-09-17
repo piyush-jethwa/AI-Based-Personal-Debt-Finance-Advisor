@@ -45,8 +45,8 @@ envGROQ_API_KEY=your_groq_api_key_here
 LLM_MODEL=llama-3.3-70b-versatile
 DEBUG_MODE=false
 4. Run the Application
-bashstreamlit run app.py
-The application will open in your browser at http://localhost:8501
+bashstreamlit run app3.py
+The application will open in your browser at http://localhost:8501.
 📁 Project Structure
 
 ai-debt-finance-advisor/
