@@ -2,7 +2,7 @@
 import os
 from typing import List, Tuple, Optional
 import streamlit as st
-from langchain_community.vectorstores import FAISS
+from langchain_community.vectorstores.faiss import FAISS
 from langchain_groq import ChatGroq
 from langchain.chains import RetrievalQA
 from langchain.callbacks.base import BaseCallbackHandler
